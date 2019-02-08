@@ -1,24 +1,18 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This is the first week.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> I am working more on the Wiki this semester (for ShuttleTracker)
+> I need to organize the wiki and start walking through the code to
+> Understand it so I can document it
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> Need to check out some good examples of wiki's 
+> and to better understand the Go language
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Test on Monday + busy weekend might limit me
