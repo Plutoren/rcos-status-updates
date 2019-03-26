@@ -5,6 +5,8 @@
 > Made some small edits and updated the Wiki to match the latest version of Shuttle Tracker
 > Redid the Shuttle Tracker ReadMe since much of the content of the ReadMe has been moved into the wiki
 
+[Link to Edit History](https://github.com/Plutoren/shuttletracker/wiki/_history)
+
 ## This Week's Plan
 
 > Find a new Project since I've pretty much finished the Wiki
